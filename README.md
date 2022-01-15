@@ -4,7 +4,7 @@
 
 Submitted by: **Andrew Cho**
 
-Time spent: **13** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
